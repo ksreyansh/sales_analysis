@@ -1,3 +1,3 @@
 # sales_analysis
-Comprehensive Sales data analysis and custoomer segmentation using exploratory data analysis and RFM methodology 
+Comprehensive sales data analysis and customer segmentation using exploratory data analysis and RFM methodology of segmentation.
 Dataset can be found here: https://www.kaggle.com/datasets/marcio486/sales-data-for-a-chain-of-brazilian-stores
